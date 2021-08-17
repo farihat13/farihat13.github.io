@@ -1,0 +1,15 @@
+{% comment %}
+  The code below dynamically generates a sidebar nav of pages with
+  `sidebar_link: true` in the front-matter. See readme for usage.
+{% endcomment %}
+<!-- {% assign pages_list = site.posts | sort:"date" | reverse %} -->
+{% assign pages_list = site.posts | sort:"date" %}
+{% for node in pages_list %}
+  {% if node.title != null %}
+    {% if node.sidebar_link %}
+      <!-- {% if node.short_title != null %}{{ node.short_title }}{% else %}{{ node.title }}{% endif %} <br/> -->
+      <a class="page-link {% if page.url == node.url %} active{% endif %}"
+          href="#{{node.title}}">{% if node.short_title != null %}{{ node.short_title }}{% else %}{{ node.title }}{% endif %}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}

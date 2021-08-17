@@ -1,0 +1,78 @@
+<nav id="sidebar-icon-links">
+
+  </style>
+  {% if site.hydeout.repo %}
+    <a id="github-link"
+       class="icon" title="Github Project" aria-label="Github Project"
+       href="{{ site.hydeout.repo }}">
+      {% include svg/github.svg %}
+    </a>
+    <a id="github-download-link"
+       class="icon" title="Download" aria-label="Download"
+       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
+      {% include svg/download.svg %}
+    </a>
+  {% endif %}
+
+  <!-- <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+    {% include svg/feed.svg %}
+  </a> -->
+
+  {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% assign search_page = false %}
+  {% for node in site.pages %}
+    {% if node.layout == "tags" %}
+      {% assign tags_page = node %}
+    {% elsif node.layout == "search" %}
+      {% assign search_page = node %}
+    {% endif %}
+  {% endfor %}
+
+  <!-- {% if tags_page %}
+    <a id="tags-link"
+       class="icon{% if page.url == '/tags' %} active{% endif %}"
+       title="Tags" aria-label="Tags"
+       href="https://www.linkedin.com/in/fariha-tabassum-islam">
+      {% include svg/tags.svg %}
+    </a>
+  {% endif %} -->
+
+
+  <!-- <a href="mailto:fariha.t13@gmail.comm">
+    <i class="fa fa-envelope-o fa-2x" aria-hidden="true" title="EMail" style="margin-right: 15px"></i>
+  </a> -->
+
+  <a href="https://scholar.google.com/citations?user=l9at90oAAAAJ">
+    <i class="fa fa-graduation-cap fa-2x" aria-hidden="true" title="Google Scholar" style="margin-right: 12px"></i>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/fariha-tabassum-islam">
+    <i class="fa fa-linkedin-square fa-2x" aria-hidden="true" title="LinkedIn" style="margin-right: 12px"></i>
+  </a>
+
+  <a href="https://github.com/farihat13">
+    <i class="fa fa-github fa-2x" aria-hidden="true" title="GitHub" style="margin-right: 12px"></i>
+  </a>
+
+<br/>
+  
+fariha.t13 [at] gmail [dot] com
+
+
+
+  <!-- {% if search_page %}
+    <a id="search-link"
+       class="icon{% if page.url == '/search' %} active{% endif %}"
+       title="Search" aria-label="Search"
+       href="{{ search_page.url | relative_url }}">
+      {% include svg/search.svg %}
+    </a>
+  {% endif %} -->
+
+  {% include custom-icon-links.html %}
+</nav>
