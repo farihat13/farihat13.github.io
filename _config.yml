@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            Fariha Tabassum Islam
-tagline:          'Researcher . Lecturer'
+tagline:          'Researcher . Learner . Teacher'
 # description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-description:      'Researcher | Lecturer'
+description:      'Researcher | Learner | Teacher'
 url:              https://fongandrew.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
