@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /images/Fariha.jpg
+Disallow: /images/Fariha2.jpg
+Disallow: /images/*
+Disallow: /Fariha.jpg
+Disallow: /Fariha2.jpg
