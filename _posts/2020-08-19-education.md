@@ -9,16 +9,16 @@ excerpt_separator:  <!--more-->
 
 ##### Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
-<fh2> Thesis: A Privacy-enhanced Approach for Planning Safe Routes with Crowdsourced Data and Computation </fh2>
+Thesis: *A Privacy-enhanced Approach for Planning Safe Routes with Crowdsourced Data and Computation*
 
 <!-- <font size="4"> Computer Science and Engineering, Bangladesh University of Engineering and Technology </font>
 <font size="3"> Thesis: A Privacy-enhanced Approach for Planning Safe Routes with Crowdsourced Data and Computation </font> -->
 
-##### Bachelor of Science | July 2014 - October 2018
+#### Bachelor of Science | July 2014 - October 2018
 
 ##### Computer Science and Engineering, Bangladesh University of Engineering and Technology
 
-<fh2> Thesis: An Efficient Approach for Real-Time Crowdsourced Package Delivery using Public Transport Networks </fh2>
+Thesis: *An Efficient Approach for Real-Time Crowdsourced Package Delivery using Public Transport Networks*
 
 <!-- <font size="4"> Computer Science and Engineering, Bangladesh University of Engineering and Technology </font>
 <font size="3"> Thesis: An Efficient Approach for Real-Time Crowdsourced Package Delivery using Public Transport Networks </font> -->
