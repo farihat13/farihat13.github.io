@@ -67,6 +67,8 @@ article + *,
   border-top: 1px solid $border-color;
   margin-top: $section-spacing;
   padding-top: $section-spacing;
+  
+  font-size: 0.75rem;
 
   > h2:first-child,
   > h3:first-child {
