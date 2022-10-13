@@ -8,8 +8,6 @@ h3,
 h4,
 h5,
 h6, 
-fh2, 
-fh3,
 .site-title {
   color: $heading-color;
   font-weight: 600;
@@ -57,14 +55,13 @@ p {
 }
 
 // my type fh2 fh3
-fh2, 
-fh3 {
-  color: $heading-color;
-  font-weight: 600;
-  line-height: 1.25;
-  margin-bottom: $heading-spacing;
-  text-rendering: optimizeLegibility;
-}
+// fh2, 
+// fh3 {
+//   font-weight: 600;
+//   line-height: 1.25;
+//   margin-bottom: $heading-spacing;
+//   text-rendering: optimizeLegibility;
+// }
 fh2{
   font-size: 0.85rem;
   margin-top: 0.1rem;
