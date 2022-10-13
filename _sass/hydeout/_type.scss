@@ -30,11 +30,19 @@ h3 {
   margin-top: 1.5rem;
 }
 
-h4,
+h4 {
+  font-size: 1rem;
+  margin-top: 0.1rem;
+}
+
 h5,
 h6 {
-  font-size: 1rem;
-  margin-top: 1rem;
+  margin-top: 0.1rem;
+}
+
+h6 {
+  color: darkblue;
+  margin-top: 0.1rem;
 }
 
 p {
@@ -82,18 +90,19 @@ abbr {
 }
 
 blockquote {
-  border-left: 0.25rem solid $border-color;
+  border-left: 0.1rem solid $border-color;
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
+  font-size: 0.8rem;
 
   p:last-child {
     margin-bottom: 0;
   }
 
   @media (min-width: 30em) {
-    padding-left: 1.25rem;
-    padding-right: 5rem;
+    // padding-left: 1.25rem;
+    // padding-right: 5rem;
   }
 }
 
