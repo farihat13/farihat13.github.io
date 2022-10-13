@@ -6,10 +6,10 @@ excerpt_separator:  <!--more-->
 ---
 
 #### Lecturer | February 2019 -  Present
-<font size="3"> Department of Computer Science and Engineering, United International University </font>
+##### Department of Computer Science and Engineering, United International University
 
 #### High Profile ICT Scholar Fellow | June 2019 - June 2020 
-<font size="3"> Information and Communication Technology Division, Bangladesh </font>
+##### Information and Communication Technology Division, Bangladesh
 
 <!-- #### Lecturer | February 2019 -  June 2019
 <font size="4"> Department of Computer Science and Engineering, United International University </font>  -->
