@@ -18,4 +18,4 @@ excerpt_separator:  <!--more-->
 
 **MTUL: A Novel Approach for Multi-Trajectory User Linking**
 <br/>*Fariha Tabassum Islam*<sup>\*</sup>, Md. Tareq Mahmood<sup>\*</sup>, Mahmuda Naznin
-<br/>**NSysS 2022** | DOI 10.1145/3569551.3569554 | [Link](https://dl.acm.org/doi/abs/10.1145/3569551.3569554)
+<br/>**NSysS 2022** | DOI 10.1145/3569551.3569554 | [Link](https://dl.acm.org/doi/abs/10.1145/3569551.3569554){:target="_blank"}
