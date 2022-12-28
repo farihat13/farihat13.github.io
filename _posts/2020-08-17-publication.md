@@ -1,16 +1,21 @@
 ---
 layout: post
-title: Research Papers
+title: Publications
 sidebar_link: true
 excerpt_separator:  <!--more-->
 ---
 #### A Privacy-Enhanced and Personalized Safe Route Planner with Crowdsourced Data and Computation
-##### Fariha Tabassum Islam, Tanzima Hashem, Rifat Shahriyar
-###### ICDE 2021 | Core Rank: A* | [Link](https://ieeexplore.ieee.org/abstract/document/9458643/){:target="_blank"} 
-![System architecture of safe route planner](/images/saferouteplanner.png "System architecture")
-
-We introduce a novel safe route planning problem and develop an efficient solution to ensure the travelers' safety on roads. Our approach finds the safest routes within a user-specified distance threshold based on the personalized travel experience of the knowledgeable crowd without involving any centralized computation. Our algorithms for finding the safest route further enhance user privacy by minimizing the exposure of personalized safety scores with others. Our safe route planner can find the safest routes for individuals and groups by considering both a fixed and a set of flexible destination locations.
+##### *Fariha Tabassum Islam*, Tanzima Hashem, Rifat Shahriyar
+###### ICDE 2021 | DOI 10.1109/ICDE51399.2021.00027 | [Link](http://rifatshahriyar.github.io/files/ICDE1.pdf){:target="_blank"} 
 
 #### A Crowd-enabled Solution for Privacy-Preserving and Personalized Safe Route Planning for Fixed or Flexible Destinations (Full Version)
-##### Fariha Tabassum Islam, Tanzima Hashem, Rifat Shahriyar
-###### arXiv | [Link](https://arxiv.org/abs/2112.13760){:target="_blank"}
+##### *Fariha Tabassum Islam*, Tanzima Hashem, Rifat Shahriyar
+###### TKDE 2022 | [Link](https://arxiv.org/abs/2112.13760){:target="_blank"}
+
+#### Representative Dissimilar Path Queries: Accomodating Human Movement Dynamics in Road Networks
+##### Tanzima Hashem, Matt Duckham, Mahathir Monjur, *Fariha Tabassum Islam*
+###### JOSIS 2022 
+
+#### MTUL: A Novel Approach for Multi-Trajectory User Linking
+##### *Fariha Tabassum Islam*<sup>\*</sup>, Md. Tareq Mahmood<sup>\*</sup>, Mahmuda Naznin
+###### NSysS 2022 | DOI 10.1145/3569551.3569554
