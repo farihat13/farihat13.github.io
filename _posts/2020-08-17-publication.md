@@ -8,6 +8,14 @@ excerpt_separator:  <!--more-->
 <br/>*Fariha Tabassum Islam*, Tanzima Hashem, Rifat Shahriyar
 <br/>**ICDE 2021** | DOI 10.1109/ICDE51399.2021.00027 | [Link](http://rifatshahriyar.github.io/files/ICDE1.pdf){:target="_blank"} 
 
+<font size="3rem">
+<p style="line-height:1.3;color:gray">
+**A Privacy-Enhanced and Personalized Safe Route Planner with Crowdsourced Data and Computation**
+<br/>*Fariha Tabassum Islam*, Tanzima Hashem, Rifat Shahriyar
+<br/>**ICDE 2021** | DOI 10.1109/ICDE51399.2021.00027 | [Link](http://rifatshahriyar.github.io/files/ICDE1.pdf){:target="_blank"}  
+</p>
+</font>
+
 **A Crowd-enabled Solution for Privacy-Preserving and Personalized Safe Route Planning for Fixed or Flexible Destinations**
 <br/>*Fariha Tabassum Islam*, Tanzima Hashem, Rifat Shahriyar
 <br/>**TKDE 2022** | [Link](https://arxiv.org/abs/2112.13760){:target="_blank"}
