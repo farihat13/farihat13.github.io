@@ -5,5 +5,5 @@ sidebar_link: true
 excerpt_separator:  <!--more-->
 ---
 
-#### High Profile ICT Scholar Fellowship, 2018-19
+#### High Profile ICT Scholar Fellowship | June 2019 - June 2020
 ##### Information and Communication Technology Division, Bangladesh
