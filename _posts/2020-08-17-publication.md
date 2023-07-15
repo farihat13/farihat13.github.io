@@ -18,4 +18,4 @@ excerpt_separator:  <!--more-->
 
 **[J2]** Representative Dissimilar Path Queries: Accomodating Human Movement Dynamics in Road Networks
 <br/>Tanzima Hashem, Matt Duckham, Mahathir Monjur, *Fariha Tabassum Islam*
-<br/>**JOSIS** (Accepted)
+<br/>**JOSIS 2023** | [Link](https://josis.org/index.php/josis/article/view/221){:target="_blank"}
