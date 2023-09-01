@@ -5,7 +5,9 @@ sidebar_link: true
 excerpt_separator:  <!--more-->
 ---
 
-#### Lecturer | February 2019 -  Present
+#### Asst. Prof. | June 2023 -  Present 
+
+#### Lecturer | February 2019 -  June 2023
 
 ##### Department of Computer Science and Engineering, United International University
 
