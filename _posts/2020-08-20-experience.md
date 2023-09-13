@@ -5,7 +5,9 @@ sidebar_link: true
 excerpt_separator:  <!--more-->
 ---
 
-#### Asst. Prof. | June 2023 -  Present 
+#### Graduate Teaching Assistant | August 2023 - Present
+
+<!-- #### Asst. Prof. | June 2023 -  Present  -->
 
 #### Lecturer | February 2019 -  June 2023
 
